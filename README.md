@@ -1,48 +1,18 @@
-# 💀 DAMINĪ (NERD-K-TECH)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="90">
-
-### I AM DAMI — WEBSITE DEVELOPER, PROGRAMMER, SPIDERMAN LOVER 🕸️  
-BOT PROGRAMMER (WHATSAPP + TELEGRAM) 🤖  
-👉 [JOIN US ON WHATSAPP](https://whatsapp.com/channel/0029VazHPYwBqbr9HjXrc50m)
-
----
-
-<div align="center">
-  <img src="https://files.catbox.moe/76l80b.jpg" width="300" height="200" style="border-radius:10px;">
-  
-  <br><br>
-  <img src="http://readme-typing-svg.herokuapp.com?color=ff0048&center=true&vCenter=true&multiline=false&lines=DAMINĪ+NERDK-TECH+THE+KING;SPIDERMAN+DEV+VIBES;CODER+BY+PASSION" alt="Typing SVG" />
-</div>
-
----
-
-## 💻 My Languages
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="60" height="60"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="60" height="60"/>
-</div>
-
----
-
-## 📊 GitHub
+### Nerdk-tech's GitHub Stats
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerdk-tech&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff0048&text_color=ffffff)
+<!-- Main Stats Card -->
+![Nerdk-tech Stats](https://github-readme-stats.vercel.app/api?username=Nerdk-tech&theme=dark&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&icon_color=39FF14&border_color=30363D&show_icons=true&rank_icon=percentile)
+
+<br/>
+
+<!-- Streak + Contributions -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nerdk-tech&theme=dark&background=0D1117&stroke=30363D&ring=39FF14&fire=39FF14&currStreakLabel=39FF14)
+
+<br/>
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nerdk-tech&theme=dark&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9&layout=compact)
 
 </div>
-
----
-
-### ⚡ Connect With Me
-📞 **Telegram:** [t.me/nate_xxxx](https://t.me/nate_xxxx)  
-📱 **WhatsApp:** [Join Channel](https://whatsapp.com/channel/0029VazHPYwBqbr9HjXrc50m)  
-🐙 **GitHub:** [Nerdk-tech](https://github.com/Nerdk-tech)
-
----
-
-🕷️ *"With great power, comes great programming."*
